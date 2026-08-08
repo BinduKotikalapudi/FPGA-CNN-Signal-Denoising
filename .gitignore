@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Vivado
+*.jou
+*.log
+*.str
+*.cache
+*.hw
+*.runs
+*.sim
+*.ip_user_files
+*.Xil
+*.bit
+
+# Generated output files
+results/*.txt
+weights/*.txt
+weights/*.coe
